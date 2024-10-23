@@ -1,0 +1,3 @@
+Hostname:DESKTOP-4PB7IAL
+Platform: win32
+CPUs: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
