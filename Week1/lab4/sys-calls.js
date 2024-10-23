@@ -18,6 +18,6 @@ fs.writeFile('output.txt', ("Hostname:" + os.hostname() + "\nPlatform: " + os.pl
     }
     });
 
-console.log("Hostname: ", + os.hostname());
-console.log("OS Type: ", + os.type());
+console.log("Hostname: " + os.hostname());
+console.log("OS Type: " + os.type());
 console.log("CPU cores: " + os.cpus());
